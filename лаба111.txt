@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Моё лето</title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+    </head>
+    <body>
+        <h1 class="rer">Как я провела лето</h1>
+	<img class="ttt" src="yt1.jpg" width="500" height="300" align="center">
+	<img src="yt3.jpg" width="500" height="300" align="center">
+        <p>Лето - удивительная пора. Это время прогулок, отдыха и путешествий. Свое лето я провел очень интересно и разнообразно. В начале июня я отправился в лагерь на 14 дней. Это была моя первая поездка без родителей, поэтому я очень переживал. Но все прошло чудесно. Лагерь находился в хвойном лесу, где мы гуляли и дышали свежим воздухом каждый день.
+        </br></br>
+       В июле мы с родителями отправились на море. Там мы загорали, купались. Папа научил меня плавать брасом. Море подарило мне множество незабываемых впечатлений. Когда я вернулся домой, то проводил остаток лета с друзьями во дворе. Мы ни минуты не скучали! Мы занимались спортом, строили домики и играли в футбол. Как жаль, что лето закончилось.</p>
+        <p><b>А следующее фото - это оригинальня ссылка</b></br></p>
+        <a href="https://alesyallukashevich.github.io/5task/"><img class="ppp" src="yt2.jpg"  width="500" height="300"  alt="" /></a>
+    </body>
+      <style type="text/css">
+            body {
+                background-image: url(../yt4.jpg);
+                font-family: Arial, Sans-Serif; /* Тип шрифта */
+                color: #315829; /* Цвет текста */
+                font-size: 20px; /* Размер текста в пикселях */
+		margin-left: 20px;
+            }
+	    .rer {
+		margin-left: 570px; }
+	    .ttt {
+		margin-left: 255px; }
+   	    .ppp {
+		margin-left: 485px; }
+        </style>  
+</html>
